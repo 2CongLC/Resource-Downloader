@@ -1,0 +1,24 @@
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\bin\Debug\Resource Downloader.exe.config
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\bin\Debug\Resource Downloader.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\bin\Debug\Resource Downloader.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\bin\Debug\Resource Downloader.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\obj\Debug\ChuCong.Form1.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\obj\Debug\ChuCong.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\obj\Debug\Resource Downloader.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\obj\Debug\Resource Downloader.vbproj.CoreCompileInputs.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\obj\Debug\Resource Downloader.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\obj\Debug\Resource Downloader.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\obj\Debug\Resource Downloader.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\obj\Debug\Resource Downloader.vbprojAssemblyReference.cache
+D:\Source VBNet_C#\GitHub\Resouce-Downloader\src\bin\Debug\Resource Downloader.exe.config
+D:\Source VBNet_C#\GitHub\Resouce-Downloader\src\bin\Debug\Resource Downloader.exe
+D:\Source VBNet_C#\GitHub\Resouce-Downloader\src\bin\Debug\Resource Downloader.pdb
+D:\Source VBNet_C#\GitHub\Resouce-Downloader\src\bin\Debug\Resource Downloader.xml
+D:\Source VBNet_C#\GitHub\Resouce-Downloader\src\obj\Debug\Resource Downloader.vbproj.AssemblyReference.cache
+D:\Source VBNet_C#\GitHub\Resouce-Downloader\src\obj\Debug\ChuCong.Form1.resources
+D:\Source VBNet_C#\GitHub\Resouce-Downloader\src\obj\Debug\ChuCong.Resources.resources
+D:\Source VBNet_C#\GitHub\Resouce-Downloader\src\obj\Debug\Resource Downloader.vbproj.GenerateResource.cache
+D:\Source VBNet_C#\GitHub\Resouce-Downloader\src\obj\Debug\Resource Downloader.vbproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\GitHub\Resouce-Downloader\src\obj\Debug\Resource Downloader.exe
+D:\Source VBNet_C#\GitHub\Resouce-Downloader\src\obj\Debug\Resource Downloader.xml
+D:\Source VBNet_C#\GitHub\Resouce-Downloader\src\obj\Debug\Resource Downloader.pdb

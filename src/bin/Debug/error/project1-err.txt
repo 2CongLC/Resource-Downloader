@@ -1,0 +1,105 @@
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.VisualBasic.MyServices.Internal.WebClientCopy.DownloadFile(Uri address, String destinationFileName)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(Uri address, String destinationFileName, ICredentials networkCredentials, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName, String userName, String password, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName)
+   at ChuCong.Form1.Button5_Click(Object sender, EventArgs e) in E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\Form1.vb:line 199
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.VisualBasic.MyServices.Internal.WebClientCopy.DownloadFile(Uri address, String destinationFileName)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(Uri address, String destinationFileName, ICredentials networkCredentials, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName, String userName, String password, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName)
+   at ChuCong.Form1.Button5_Click(Object sender, EventArgs e) in E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\Form1.vb:line 199
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.VisualBasic.MyServices.Internal.WebClientCopy.DownloadFile(Uri address, String destinationFileName)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(Uri address, String destinationFileName, ICredentials networkCredentials, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName, String userName, String password, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName)
+   at ChuCong.Form1.Button5_Click(Object sender, EventArgs e) in E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\Form1.vb:line 199
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.VisualBasic.MyServices.Internal.WebClientCopy.DownloadFile(Uri address, String destinationFileName)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(Uri address, String destinationFileName, ICredentials networkCredentials, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName, String userName, String password, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName)
+   at ChuCong.Form1.Button5_Click(Object sender, EventArgs e) in E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\Form1.vb:line 199
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.VisualBasic.MyServices.Internal.WebClientCopy.DownloadFile(Uri address, String destinationFileName)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(Uri address, String destinationFileName, ICredentials networkCredentials, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName, String userName, String password, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName)
+   at ChuCong.Form1.Button5_Click(Object sender, EventArgs e) in E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\Form1.vb:line 199
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.VisualBasic.MyServices.Internal.WebClientCopy.DownloadFile(Uri address, String destinationFileName)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(Uri address, String destinationFileName, ICredentials networkCredentials, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName, String userName, String password, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName)
+   at ChuCong.Form1.Button5_Click(Object sender, EventArgs e) in E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\Form1.vb:line 199
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.VisualBasic.MyServices.Internal.WebClientCopy.DownloadFile(Uri address, String destinationFileName)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(Uri address, String destinationFileName, ICredentials networkCredentials, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName, String userName, String password, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName)
+   at ChuCong.Form1.Button5_Click(Object sender, EventArgs e) in E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\Form1.vb:line 199
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.VisualBasic.MyServices.Internal.WebClientCopy.DownloadFile(Uri address, String destinationFileName)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(Uri address, String destinationFileName, ICredentials networkCredentials, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName, String userName, String password, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName)
+   at ChuCong.Form1.Button5_Click(Object sender, EventArgs e) in E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\Form1.vb:line 199
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.VisualBasic.MyServices.Internal.WebClientCopy.DownloadFile(Uri address, String destinationFileName)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(Uri address, String destinationFileName, ICredentials networkCredentials, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName, String userName, String password, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName)
+   at ChuCong.Form1.Button5_Click(Object sender, EventArgs e) in E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\Form1.vb:line 199
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.VisualBasic.MyServices.Internal.WebClientCopy.DownloadFile(Uri address, String destinationFileName)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(Uri address, String destinationFileName, ICredentials networkCredentials, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName, String userName, String password, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName)
+   at ChuCong.Form1.Button5_Click(Object sender, EventArgs e) in E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\Form1.vb:line 199
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.VisualBasic.MyServices.Internal.WebClientCopy.DownloadFile(Uri address, String destinationFileName)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(Uri address, String destinationFileName, ICredentials networkCredentials, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName, String userName, String password, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName)
+   at ChuCong.Form1.Button5_Click(Object sender, EventArgs e) in E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\Form1.vb:line 199
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.VisualBasic.MyServices.Internal.WebClientCopy.DownloadFile(Uri address, String destinationFileName)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(Uri address, String destinationFileName, ICredentials networkCredentials, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName, String userName, String password, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName)
+   at ChuCong.Form1.Button5_Click(Object sender, EventArgs e) in E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\Form1.vb:line 199
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.VisualBasic.MyServices.Internal.WebClientCopy.DownloadFile(Uri address, String destinationFileName)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(Uri address, String destinationFileName, ICredentials networkCredentials, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName, String userName, String password, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName)
+   at ChuCong.Form1.Button5_Click(Object sender, EventArgs e) in E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\Form1.vb:line 199
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.VisualBasic.MyServices.Internal.WebClientCopy.DownloadFile(Uri address, String destinationFileName)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(Uri address, String destinationFileName, ICredentials networkCredentials, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName, String userName, String password, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName)
+   at ChuCong.Form1.Button5_Click(Object sender, EventArgs e) in E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\Form1.vb:line 199
+System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.VisualBasic.MyServices.Internal.WebClientCopy.DownloadFile(Uri address, String destinationFileName)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(Uri address, String destinationFileName, ICredentials networkCredentials, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName, String userName, String password, Boolean showUI, Int32 connectionTimeout, Boolean overwrite, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.Devices.Network.DownloadFile(String address, String destinationFileName)
+   at ChuCong.Form1.Button5_Click(Object sender, EventArgs e) in E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Resource Downloader\Form1.vb:line 199

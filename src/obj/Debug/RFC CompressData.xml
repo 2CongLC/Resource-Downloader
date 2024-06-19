@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RFC CompressData
+</name>
+</assembly>
+<members>
+<member name="T:ChuCong.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ChuCong.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ChuCong.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:ChuCong.RFC">
+ <summary>
+ Code được viết vào những ngày khó khăn nhất của tôi !
+ RIP những ngày tháng 5 năm 2020.
+ 2CongLc.Vn@gmail.com
+ </summary>
+</member>
+<member name="M:ChuCong.RFC.Compress(System.String,ChuCong.RFC.ZipMode,System.String,System.String)">
+ <summary>
+ Nén thư mục dữ liệu
+ </summary>
+ <param name="src"></param>
+ <param name="zipmode"></param>
+ <param name="inExtension"></param>
+ <param name="outExtension"></param>
+</member>
+<member name="M:ChuCong.RFC.Decompress(System.String,ChuCong.RFC.ZipMode,System.String,System.String)">
+ <summary>
+ Giải thư mục nén dữ liệu
+ </summary>
+ <param name="src"></param>
+ <param name="zipmode"></param>
+ <param name="inExtension"></param>
+ <param name="outExtension"></param>
+</member>
+</members>
+</doc>

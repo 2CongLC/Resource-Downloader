@@ -1,0 +1,11 @@
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\Bản nháp\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\Bản nháp\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\Bản nháp\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\Bản nháp\WindowsApp3\bin\Debug\WindowsApp3.exe
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\Bản nháp\WindowsApp3\bin\Debug\WindowsApp3.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\Bản nháp\WindowsApp3\bin\Debug\WindowsApp3.xml
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\Bản nháp\WindowsApp3\obj\Debug\WindowsApp3.exe
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\Bản nháp\WindowsApp3\obj\Debug\WindowsApp3.xml
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\Bản nháp\WindowsApp3\obj\Debug\WindowsApp3.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\Bản nháp\WindowsApp3\obj\Debug\WindowsApp3.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\Bản nháp\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources

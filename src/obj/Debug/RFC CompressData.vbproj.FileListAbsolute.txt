@@ -1,0 +1,12 @@
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\RFC CompressData\obj\Debug\RFC CompressData.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\RFC CompressData\obj\Debug\ChuCong.Form1.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\RFC CompressData\obj\Debug\ChuCong.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\RFC CompressData\obj\Debug\RFC CompressData.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\RFC CompressData\obj\Debug\RFC CompressData.vbproj.CoreCompileInputs.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\RFC CompressData\bin\Debug\RFC CompressData.exe.config
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\RFC CompressData\bin\Debug\RFC CompressData.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\RFC CompressData\bin\Debug\RFC CompressData.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\RFC CompressData\bin\Debug\RFC CompressData.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\RFC CompressData\obj\Debug\RFC CompressData.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\RFC CompressData\obj\Debug\RFC CompressData.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\RFC CompressData\obj\Debug\RFC CompressData.pdb

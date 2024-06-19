@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Resource Downloader
+</name>
+</assembly>
+<members>
+<member name="T:ChuCong.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ChuCong.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ChuCong.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:ChuCong.Form1">
+ <summary>
+ Code được viết vào những ngày khó khăn nhất của tôi !
+ RIP những ngày tháng 5 năm 2020.
+ 19/06/2024 Cũng đang trong tâm trạng như vậy.
+ 2CongLc.Vn@gmail.com
+ </summary>
+</member>
+<member name="M:ChuCong.Form1.ComboBox1_Click(System.Object,System.EventArgs)">
+ <summary>
+ Đưa danh sách tệp vào combobox
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:ChuCong.Form1.ComboBox1_SelectedIndexChanged(System.Object,System.EventArgs)">
+ <summary>
+ lựa chọn tệp trong danh sách tệp
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>
