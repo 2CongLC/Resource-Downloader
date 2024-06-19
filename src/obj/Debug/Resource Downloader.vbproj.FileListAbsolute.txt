@@ -22,3 +22,15 @@ D:\Source VBNet_C#\GitHub\Resouce-Downloader\src\obj\Debug\Resource Downloader.v
 D:\Source VBNet_C#\GitHub\Resouce-Downloader\src\obj\Debug\Resource Downloader.exe
 D:\Source VBNet_C#\GitHub\Resouce-Downloader\src\obj\Debug\Resource Downloader.xml
 D:\Source VBNet_C#\GitHub\Resouce-Downloader\src\obj\Debug\Resource Downloader.pdb
+D:\Source VBNet_C#\GitHub\Resource-Downloader\src\bin\Debug\Resource Downloader.exe.config
+D:\Source VBNet_C#\GitHub\Resource-Downloader\src\bin\Debug\Resource Downloader.exe
+D:\Source VBNet_C#\GitHub\Resource-Downloader\src\bin\Debug\Resource Downloader.pdb
+D:\Source VBNet_C#\GitHub\Resource-Downloader\src\bin\Debug\Resource Downloader.xml
+D:\Source VBNet_C#\GitHub\Resource-Downloader\src\obj\Debug\Resource Downloader.vbproj.AssemblyReference.cache
+D:\Source VBNet_C#\GitHub\Resource-Downloader\src\obj\Debug\ChuCong.Form1.resources
+D:\Source VBNet_C#\GitHub\Resource-Downloader\src\obj\Debug\ChuCong.Resources.resources
+D:\Source VBNet_C#\GitHub\Resource-Downloader\src\obj\Debug\Resource Downloader.vbproj.GenerateResource.cache
+D:\Source VBNet_C#\GitHub\Resource-Downloader\src\obj\Debug\Resource Downloader.vbproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\GitHub\Resource-Downloader\src\obj\Debug\Resource Downloader.exe
+D:\Source VBNet_C#\GitHub\Resource-Downloader\src\obj\Debug\Resource Downloader.xml
+D:\Source VBNet_C#\GitHub\Resource-Downloader\src\obj\Debug\Resource Downloader.pdb
